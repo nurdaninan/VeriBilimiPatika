@@ -1,0 +1,12 @@
+Proje 2
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Cevap=
+Başlangıç Durumu= [16,21,11,8,12,22]
+1- [16,21,11]-[8,12,22]
+2- [11,16,21]-[8,12,22]
+3- [8,11,12,16,21,22]
+
+Big-O gösterimini yazınız.
+O(n log n)
